@@ -24,4 +24,4 @@ def TwoSum(arr):
   else:
     return -1
 
-print(TwoSum(input()))
+print(TwoSum([0,2,5,46]))
